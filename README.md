@@ -9,4 +9,5 @@ Use space bar or left mouse click to shoot at enemies.
 
 Happy playing.
 
-game link:https://sharemygame.com/@Padmanabh_03/laser-defender-padmanabh
+game link:https://sharemygame.com/@Padmanabh_03/laser-defender
+game link:https://padmanabh.itch.io/laser-defender
